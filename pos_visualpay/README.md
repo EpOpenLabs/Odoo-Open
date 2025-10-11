@@ -57,17 +57,17 @@ Una vez validada la orden, la imagen y los comentarios se añaden al historial d
 
 ### 🐛 Report Issues
 Si encontraste un bug o error en el módulo, repórtalo directamente en nuestro repositorio:  
-🔗 [Abrir un Issue](https://github.com/lpachecob/Odoo-POS-VisualPay/issues)
+🔗 [Abrir un Issue](https://github.com/EpOpenLabs/Odoo-Open/issues)
 
 ### 💡 Feature Requests
 ¿Tienes una idea o mejora para VisualPay? Cuéntanos y podríamos incluirla en próximas versiones.  
-🔗 [Enviar sugerencia](https://github.com/lpachecob/Odoo-POS-VisualPay/issues)
+🔗 [Enviar sugerencia](https://github.com/EpOpenLabs/Odoo-Open/issues)
 
 ### ✉️ General Contact
 Para consultas o soporte general, puedes escribirnos directamente:  
-📩 [info@visualpay.io](mailto:info@visualpay.io)
+📩 [info@visualpay.io](mailto:info@lpachecoby@gmail.com)
 
 ---
 
 ❤️ **Desarrollado por Ernesto Pacheco**  
-Código abierto disponible en [GitHub](https://github.com/lpachecob/Odoo-POS-VisualPay)
+Código abierto disponible en [GitHub](https://github.com/EpOpenLabs/Odoo-Open)
