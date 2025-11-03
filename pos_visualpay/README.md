@@ -7,6 +7,9 @@
 Su diseño es limpio, intuitivo y se integra sin complicaciones con los métodos de pago existentes.
 
 ---
+🔗 Disponible en Odoo Apps: https://apps.odoo.com/apps/modules/18.0/pos_visualpay
+
+---
 
 ## 🚀 Feature Highlights
 
