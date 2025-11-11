@@ -68,7 +68,7 @@ Si encontraste un bug o error en el módulo, repórtalo directamente en nuestro 
 
 ### ✉️ General Contact
 Para consultas o soporte general, puedes escribirnos directamente:  
-📩 [info@visualpay.io](mailto:info@lpachecoby@gmail.com)
+📩 [lpachecoby@gmail.com](mailto:lpachecoby@gmail.com)
 
 ---
 
