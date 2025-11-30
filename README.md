@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Hits](https://hits.sh/github.com/EpOpenLabs/Odoo-Open.svg?style=flat-square&label=visitas)](https://hits.sh/github.com/EpOpenLabs/Odoo-Open/)
+[![Hits](https://hits.sh/github.com/EpOpenLabs/Odoo-Open.svg?style=flat-square&label=hits)](https://hits.sh/github.com/EpOpenLabs/Odoo-Open/)
 [![GitHub issues](https://img.shields.io/github/issues/EpOpenLabs/Odoo-Open?style=flat-square)](https://github.com/EpOpenLabs/Odoo-Open/issues)
 [![GitHub forks](https://img.shields.io/github/forks/EpOpenLabs/Odoo-Open?style=flat-square)](https://github.com/EpOpenLabs/Odoo-Open/network)
 [![GitHub stars](https://img.shields.io/github/stars/EpOpenLabs/Odoo-Open?style=flat-square)](https://github.com/EpOpenLabs/Odoo-Open/stargazers)
