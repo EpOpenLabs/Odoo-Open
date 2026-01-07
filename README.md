@@ -9,6 +9,8 @@
 [![License](https://img.shields.io/github/license/EpOpenLabs/Odoo-Open?style=flat-square)](LICENSE)
 [![Buy Me A Coffee](https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee-Support%20EpOpenLabs-5865F2?style=flat-square)](https://www.buymeacoffee.com/epolabs)
 
+</div>
+
 ## 🚀 ¿Qué es **Odoo-Open**?
 
 **Odoo-Open** es una colección abierta de **módulos, aplicaciones y personalizaciones** para **Odoo**, creadas y mantenidas por la comunidad de **EpOpenLabs**.  
