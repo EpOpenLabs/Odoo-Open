@@ -7,8 +7,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/EpOpenLabs/Odoo-Open?style=flat-square)](https://github.com/EpOpenLabs/Odoo-Open/network)
 [![GitHub stars](https://img.shields.io/github/stars/EpOpenLabs/Odoo-Open?style=flat-square)](https://github.com/EpOpenLabs/Odoo-Open/stargazers)
 [![License](https://img.shields.io/github/license/EpOpenLabs/Odoo-Open?style=flat-square)](LICENSE)
-
-</div>
+[![Buy Me A Coffee](https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee-Support%20EpOpenLabs-5865F2?style=flat-square)](https://www.buymeacoffee.com/epolabs)
 
 ## 🚀 ¿Qué es **Odoo-Open**?
 
@@ -98,6 +97,18 @@ Hacer versiones derivadas, manteniendo la misma licencia GPLv3.
 Acceder al texto completo de la licencia aquí 👉 [GNU GPL v3](/LICENSE)
 
 ---
+## ☕ Apoya este proyecto
+
+Si **Odoo-Open** te resulta útil y quieres apoyar el desarrollo de módulos libres para la comunidad Odoo, puedes invitarnos un café 💙  
+Tu apoyo ayuda a mantener el proyecto activo, documentado y en constante mejora.
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/epolabs" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png"
+         alt="Apóyanos con un café"
+         style="height: 55px;width: 200px;">
+  </a>
+</div>
 
 <div align="center">
 
