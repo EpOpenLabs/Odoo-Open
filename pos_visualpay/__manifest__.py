@@ -18,7 +18,7 @@
             "pos_visualpay/static/src/**/*"
         ],
     },
-    'website': ["https://github.com/EpOpenLabs/Odoo-Open/tree/18.0/pos_visualpay","https://buymeacoffee.com/epolabs"],
+    'website': "https://github.com/EpOpenLabs/Odoo-Open/tree/18.0/pos_visualpay"],
     'images': ['static/description/banner.png'],
     "installable": True,
     "application": False,
